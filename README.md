@@ -1,6 +1,7 @@
 # 钟馗之眼(Zoomeye)api 批量导出工具
 
-## 可以将所有zoomeye搜索语句粘贴到zoomeye_keyword.txt运行，每行一条语句
+## 可以将所有zoomeye搜索语句粘贴到zoomeye_keyword.txt运行
+## 每行一条语句
 ```
 做的仓促，没有增加gowitness  有需要可以自行添加 二开
 ```
